@@ -1,2 +1,2 @@
-# NobelprizeWinners-
+# Nobleprizewinners-
 Jupyter notebook and github 
